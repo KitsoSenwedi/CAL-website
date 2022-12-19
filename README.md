@@ -1,3 +1,3 @@
 # CAL-website
 
-Cardano Africa Live Internship Graduate summit 2002
+Cardano Africa Live Internship Graduate summit 2022
